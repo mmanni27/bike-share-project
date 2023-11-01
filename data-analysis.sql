@@ -1,4 +1,4 @@
--- number of rides each group has
+-- number of rides each group has 
 
 SELECT member_casual,
 COUNT(*) AS member_casual_count

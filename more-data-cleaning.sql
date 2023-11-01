@@ -1,4 +1,4 @@
--- another quality check for invalid lat or long
+-- another quality check for invalid lat or long 
 -- 11 rows with end_lat = 0
 
 SELECT *

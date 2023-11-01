@@ -1,5 +1,5 @@
 -- check for duplicates in ride_id, started_at and ended_at
--- no duplicates found
+-- no duplicates found 
 
 SELECT
   ride_id,

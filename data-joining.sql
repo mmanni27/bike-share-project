@@ -1,4 +1,4 @@
--- combine all cleaned datasets into one table with Union All
+-- combine all cleaned datasets into one table with Union All 
 
 CREATE TABLE `bike-share-case-study-mm.bike_data.combined_ride_data` 
 AS

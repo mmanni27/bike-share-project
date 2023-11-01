@@ -1,4 +1,4 @@
--- check for duplicates in ride_id, started_at and ended_at
+-- check for duplicates in ride_id, started_at and ended_at 
 -- no duplicates found 
 
 SELECT
